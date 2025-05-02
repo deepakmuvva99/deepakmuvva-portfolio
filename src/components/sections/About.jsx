@@ -4,6 +4,7 @@
 //         "tailwindCss"
 
 import { ReviewOnScroll } from "../ReviewOnScroll";
+import myPic from "../../assets/mypic.jpg";
 
 //      ];
 //      const backendskilss=[
@@ -193,7 +194,7 @@ export const About = () => {
           {/* Right Side: Professional Photo */}
           <div className="flex justify-center">
             <div className="relative w-80 h-80 md:w-96 md:h-96 rounded-2xl overflow-hidden shadow-lg">
-              <img src="src/assets/mypic.jpg" alt="Your Photo" className="w-full h-full object-cover"/>
+              <img src={myPic} alt="Your Photo" className="w-full h-full object-cover"/>
             </div>
           </div>
   
