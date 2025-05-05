@@ -54,6 +54,12 @@ export const Projects = () => {
             description: "A user-friendly platform for listing and renting properties with an intuitive interface and secure transactions.",
             techStack: ["React", "Node.js", "MongoDB", "TailwindCSS"],
             link: "#"
+        },
+         {
+            title: "iris Flower Classification",
+            description: "A machine learning model for classifying iris flower species based on petal and sepal dimensions.",
+            techStack: ["Python", "Scikit-learn", "FastApi","react"],
+            link: "https://iris-deploy.vercel.app/"
         }
     ];
 
