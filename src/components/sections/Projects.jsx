@@ -53,7 +53,7 @@ export const Projects = () => {
             title: "Rent Easy - House Rental Platform",
             description: "A user-friendly platform for listing and renting properties with an intuitive interface and secure transactions.",
             techStack: ["React", "Node.js", "MongoDB", "TailwindCSS"],
-            link: "#"
+            link: "https://final-project-frontend-7d9l.onrender.com"
         },
          {
             title: "iris Flower Classification",
