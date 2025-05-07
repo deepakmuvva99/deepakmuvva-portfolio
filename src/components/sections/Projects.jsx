@@ -35,7 +35,7 @@ export const Projects = () => {
             title: "Stock Market Prediction",
             description: "Combining Risk Management, Sentiment Analysis, and advanced modeling for precise stock market predictions.",
             techStack: ["Python", "SVM", "NLP", "Flask", "MongoDB"],
-            link: "#"
+            link: "https://ai-meets-markets.vercel.app/"
         },
         {
             title: "Res-ViT-MedNet Model",
