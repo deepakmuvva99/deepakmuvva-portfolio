@@ -8,7 +8,7 @@ export const Home = () => {
                 Hi,I'm DeepakMuvva
             </h1>
             <p className="text-gray-400vtext-lg max-w-lg mx-auto">
-            I'm a Machine Learning Engineering Student and aspiring Investment Banker, passionate about AI and finance.
+            I'm an AIML Student at Vignan University and aspiring Investment Banker, passionate about AI and finance.
              I develop predictive stock models and AI applications, turning data into valuable insights. 
             With expertise in Python, C++, and full-stack development, I create impactful solutions.
             My goal is to secure a top MNC role, gain experience, and transition into investment banking 
